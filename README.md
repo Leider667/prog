@@ -1,2 +1,2 @@
-# prog
-proyectos de programacion
+# SOFTWARE QUE REGISTRA DATOS DE VIDEOJUEGOS
+COMO SE INSTALA?
