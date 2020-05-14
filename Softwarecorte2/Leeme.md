@@ -4,5 +4,11 @@ Este proyecto esta desarrollado en lenguaje c# tiene la funcion de hacer que gua
 
 Este software funciona de forma similar a un gestor de base de datos ya que el usuario puede visualizar cualquier registro que se haya hecho ,puede ver o modificar cada uno de los datos de ese registro, todo esto es posible mediante un proceso que se hace con listas y paso de variables 
 
-El grefico que nos proporciona el software sirve como estadistica para medir por ejemplo que videojuego se lanzo antes que otro etc 
-funciona de manera que cada vez que se ingrese un registro aparecera inmediatamente en el grafico todo esto se programo en una dll para posiblemente usarla en otros proyectos.
+El grafico que nos proporciona el software sirve como estadistica para medir por ejemplo que videojuego se lanzo antes que otro etc 
+funciona de manera que cada vez que se ingrese un registro aparecera el nombre del videojuego y el año de su lanzamiento en el grafico  todo esto se programo en una dll para posiblemente usarla en otros proyectos.
+
+
+## Como Instalar el Software
+
+### Para explicar el proceso de instalacion ver el siguiente video
+<center><iframe width="756" height="427" src="https://www.youtube.com/watch?v=7qiuKbkeqsY?rel=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe></center>
