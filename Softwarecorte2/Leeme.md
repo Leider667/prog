@@ -28,4 +28,4 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 ![Alt Text](https://media.giphy.com/media/W2cNKIYoUUcuAzSqlD/giphy.gif)
 
 ## Cambiar idioma
-![Alt Text](https://media.giphy.com/media/Q9w25UC2VKVVO6fWtp/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Y0J7y2jev2IJ9gg3nV/giphy.gif)
