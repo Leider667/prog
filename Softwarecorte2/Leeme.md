@@ -24,14 +24,26 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 ![Alt Text](https://media.giphy.com/media/dAbwITlK19oc6NXZlp/giphy.gif)
 
 
-## Modificar registros
+### Modificar registros
 ![Alt Text](https://media.giphy.com/media/W2cNKIYoUUcuAzSqlD/giphy.gif)
 
-## Cambiar idioma
+### Cambiar idioma
 ![Alt Text](https://media.giphy.com/media/Y0J7y2jev2IJ9gg3nV/giphy.gif)
 
-## Cambiar color de la barra del grafico
+
+### Cambiar color de la barra del grafico
 ![Alt Text](https://media.giphy.com/media/h4mDTDMWfJO2l8oLsf/giphy.gif)
 
-## Calcular la suma de las cifras de un numero
+### Calcular la suma de las cifras de un numero
 ![Alt Text](https://media.giphy.com/media/Tf8nUS2FcZEJ2BLBJL/giphy.gif)
+
+
+## DLLS
+
+### Graficadorchart
+
+En esta dll se programo la funcion de graficar los datos numericos de cada registro, de modo que se cree un grafico tipo estadistica
+
+### CalcularSumaNumero
+
+Esta dll tiene la funcion de recibir un dato numerico y mostrar el resultado de la suma de sus cifras
