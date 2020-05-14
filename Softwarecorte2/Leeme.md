@@ -19,4 +19,6 @@ Haz click en la imagen para ver el video
 
 Como se pudo observar en el video el software es portable, es decir no requiere de ningun tipo de instalador basta con descargar el software y abrir el ejecutable
 
+## Funcionalidad del software
+### Crear y agregar registros
 
