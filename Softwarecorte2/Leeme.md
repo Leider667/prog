@@ -29,3 +29,6 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 
 ## Cambiar idioma
 ![Alt Text](https://media.giphy.com/media/Y0J7y2jev2IJ9gg3nV/giphy.gif)
+
+## Cambiar color de la barra del grafico
+![Alt Text](https://media.giphy.com/media/h4mDTDMWfJO2l8oLsf/giphy.gif)
