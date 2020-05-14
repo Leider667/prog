@@ -14,4 +14,4 @@ funciona de manera que cada vez que se ingrese un registro aparecera el nombre d
 
 
 Haz click en la imagen para ver el video
-[![Audi R8](https://previews.123rf.com/images/myvector/myvector1305/myvector130500130/19616421-icono-que-representa-una-instalaci%C3%B3n-de-software-en-el-pc.jpg)](https://www.youtube.com/watch?v=7qiuKbkeqsY "Instalar software")
+[![Audi R8](https://www.aserconti.com/wp-content/uploads/2019/03/Instalacion-de-Software-1.png)](https://www.youtube.com/watch?v=7qiuKbkeqsY "Instalar software")
