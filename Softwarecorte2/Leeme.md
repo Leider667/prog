@@ -26,3 +26,6 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 
 ## Modificar registros
 ![Alt Text](https://media.giphy.com/media/W2cNKIYoUUcuAzSqlD/giphy.gif)
+
+## Cambiar idioma
+![Alt Text](https://media.giphy.com/media/Q9w25UC2VKVVO6fWtp/giphy.gif)
