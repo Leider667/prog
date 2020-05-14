@@ -15,3 +15,8 @@ funciona de manera que cada vez que se ingrese un registro aparecera el nombre d
 
 Haz click en la imagen para ver el video
 [![Audi R8](https://www.aserconti.com/wp-content/uploads/2019/03/Instalacion-de-Software-1.png)](https://www.youtube.com/watch?v=7qiuKbkeqsY "Instalar software")
+
+
+Como se pudo observar en el video el software es portable, es decir no requiere de ningun tipo de instalador basta con descargar el software y abrir el ejecutable
+
+
