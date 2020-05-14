@@ -22,3 +22,7 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 ## Funcionalidad del software
 ### Crear y agregar registros
 ![Alt Text](https://media.giphy.com/media/dAbwITlK19oc6NXZlp/giphy.gif)
+
+
+## Modificar registros
+![Alt Text](https://media.giphy.com/media/W2cNKIYoUUcuAzSqlD/giphy.gif)
