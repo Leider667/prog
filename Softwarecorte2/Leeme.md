@@ -11,4 +11,4 @@ funciona de manera que cada vez que se ingrese un registro aparecera el nombre d
 ## Como Instalar el Software
 
 ### Para explicar el proceso de instalacion ver el siguiente video
-<center><iframe width="756" height="427" src="https://www.youtube.com/watch?v=7qiuKbkeqsY?rel=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="756" height="427" src="https://www.youtube.com/embed/wxKZn4Kt2WU?rel=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe></center>
