@@ -37,7 +37,7 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 ### Calcular la suma de las cifras de un numero
 ![Alt Text](https://media.giphy.com/media/Tf8nUS2FcZEJ2BLBJL/giphy.gif)
 
-### Video Que muestra la funcionalidad
+### Video funcionalidad del software
 para entender mejor el completo funcionamiento del software ver el video que se encuentra abajo
 
 Haz click en la imagen para ver el video
@@ -52,3 +52,7 @@ En esta dll se programo la funcion de graficar los datos numericos de cada regis
 ### CalcularSumaNumero
 
 Esta dll tiene la funcion de recibir un dato numerico y mostrar el resultado de la suma de sus cifras
+
+
+### autores:LEIDER MAURICIO HERNANDEZ MANTILL -ANDRES BECERRA FERREIRA
+
