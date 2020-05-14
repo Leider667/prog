@@ -10,8 +10,8 @@ funciona de manera que cada vez que se ingrese un registro aparecera el nombre d
 
 ## Como Instalar el Software
 
-### Para explicar el proceso de instalacion ver el siguiente video
+### Para ver el proceso de instalacion ver el siguiente video
 
 
 Haz click en la imagen para ver el video
-[![Audi R8](https://www.uexternado.edu.co/wp-content/uploads/2018/01/dirtic-software-licenciado-cargando.jpg)](https://www.youtube.com/watch?v=7qiuKbkeqsY "Instalar software")
+[![Audi R8](https://previews.123rf.com/images/myvector/myvector1305/myvector130500130/19616421-icono-que-representa-una-instalaci%C3%B3n-de-software-en-el-pc.jpg)](https://www.youtube.com/watch?v=7qiuKbkeqsY "Instalar software")
