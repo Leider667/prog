@@ -32,3 +32,6 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 
 ## Cambiar color de la barra del grafico
 ![Alt Text](https://media.giphy.com/media/h4mDTDMWfJO2l8oLsf/giphy.gif)
+
+## Calcular la suma de las cifras de un numero
+![Alt Text](https://media.giphy.com/media/Tf8nUS2FcZEJ2BLBJL/giphy.gif)
