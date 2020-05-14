@@ -11,4 +11,11 @@ funciona de manera que cada vez que se ingrese un registro aparecera el nombre d
 ## Como Instalar el Software
 
 ### Para explicar el proceso de instalacion ver el siguiente video
-<center><iframe width="756" height="427" src="https://www.youtube.com/embed/wxKZn4Kt2WU?rel=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe></center>
+
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
