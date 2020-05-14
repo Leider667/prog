@@ -54,5 +54,5 @@ En esta dll se programo la funcion de graficar los datos numericos de cada regis
 Esta dll tiene la funcion de recibir un dato numerico y mostrar el resultado de la suma de sus cifras
 
 
-### autores: #### LEIDER MAURICIO HERNANDEZ MANTILLA -ANDRES BECERRA FERREIRA
+### Autores: LEIDER MAURICIO HERNANDEZ MANTILLA -ANDRES BECERRA FERREIRA
 
