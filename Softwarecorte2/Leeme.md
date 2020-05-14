@@ -12,4 +12,6 @@ funciona de manera que cada vez que se ingrese un registro aparecera el nombre d
 
 ### Para explicar el proceso de instalacion ver el siguiente video
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
+Haz click en la imagen para ver el video
+[![Audi R8](https://www.uexternado.edu.co/wp-content/uploads/2018/01/dirtic-software-licenciado-cargando.jpg)](https://www.youtube.com/watch?v=7qiuKbkeqsY "Instalar software")
