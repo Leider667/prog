@@ -37,6 +37,11 @@ Como se pudo observar en el video el software es portable, es decir no requiere 
 ### Calcular la suma de las cifras de un numero
 ![Alt Text](https://media.giphy.com/media/Tf8nUS2FcZEJ2BLBJL/giphy.gif)
 
+### Video Que muestra la funcionalidad
+para entender mejor el completo funcionamiento del software ver el video que se encuentra abajo
+
+Haz click en la imagen para ver el video
+[![software](https://lumen5.com/learn/wp-content/uploads/2019/01/How-to-make-click-worthy-videos.jpg)](https://www.youtube.com/watch?v=MVNQxfJcniM&t=49s " software funcionando")
 
 ## DLLS
 
